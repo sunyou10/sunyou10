@@ -20,11 +20,12 @@ Here are some ideas to get you started:
   - Major in IISE
   - Double major in Department of Computer Science and Engineering
   
-- 🔐 2023.09~ *KITRI WhiteHatSchool 1st*
-- ☁️ 2024.08~ *9oormthon UNIV 3rd; Backend part*
+- 🔐 2023.09~2024.03  *KITRI WhiteHatSchool 1st*
+- ☁️ 2024.08~  *9oormthon UNIV 3rd; Backend part*
 
 ## I’m currently learning...
-- 🌱 Cyber-Security
+- Web Development : `Node.js` , `Spring`
+- Cyber Security : `Web Hacking`
 
 ## Contact
 - 📧 email: sy021023@gmail.com
