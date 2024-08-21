@@ -6,7 +6,7 @@ I'm Seoyun CHA
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...Computer Security
+- 🌱 I’m currently learning ...Web Development & Computer Security
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   - Double major in Department of Computer Science and Engineering
   
 - 🔐 2023.09~ *KITRI WhiteHatSchool 1st*
+- ☁️ 2024.08~ *9oormthon UNIV 3rd; Backend part*
 
 ## I’m currently learning...
 - 🌱 Cyber-Security
